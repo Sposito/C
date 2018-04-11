@@ -1,2 +1,4 @@
 #ignore binaries
 *.out
+#ignore swp:
+*.cpp.swp
